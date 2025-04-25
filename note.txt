@@ -1,0 +1,24 @@
+tambahkan fitur yang kita akan buat selanjutnya:
+✅ 1. Favorit / Simpan Amalan
+Pengunjung bisa menyimpan amalan ke "Favorit Saya"
+
+Disimpan di localStorage (karena gak pakai login user biasa)
+
+✅ 2. Filter & Sorting di Frontend
+Bisa filter berdasarkan kategori
+
+Urut berdasarkan terbaru / nama
+
+✅ 3. Tag / Keyword
+Bisa tambahkan kata kunci saat buat amalan
+
+Dapat dicari dari frontend
+
+✅ 4. Statistik di Dashboard
+Tampilkan total:
+
+Jumlah amalan
+
+Jumlah kategori
+
+Kategori terpopuler
