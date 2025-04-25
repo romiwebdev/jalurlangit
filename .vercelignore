@@ -1,1 +1,9 @@
+/tests
 /vendor
+/node_modules
+/storage/logs
+/storage/debugbar
+.env
+.env.example
+*.md
+*.lock
